@@ -6,3 +6,5 @@ y = 2
 m = (x + y)/2
 
 print("Media = ", m)
+
+print("\n\nBeijinho :3")
